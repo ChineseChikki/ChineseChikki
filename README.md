@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChineseChikki](https://github.com/ChineseChikki)
 
-- 💬 Ask me about **Reactjs, Nodejs, Expressjs, Mongodb, C#,.NET**
+- 💬 Ask me about **Reactjs, Nodejs, Expressjs, Mongodb, C#, .NET**
 
 - 📫 How to reach me **chinelsy@gmail.com**
 
