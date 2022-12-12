@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinesechikki" alt="chinesechikki" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ChineseChikki](https://github.com/ChineseChikki), https://github.com/chinelsy
+- 👨‍💻 All of my projects are available at [https://github.com/ChineseChikki](https://github.com/ChineseChikki)
 
-- 💬 Ask me about **Reactjs, Nodejs, Expressjs, Mongodb, C#, ASP.NET
+- 💬 Ask me about **Reactjs, Nodejs, Expressjs, Mongodb, C#, ASP.NET**
 
 - 📫 How to reach me **chinelsy@gmail.com**
 
