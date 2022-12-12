@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chinese Chikki</h1>
 <h3 align="center">A dynamic and result-oriented software engineer, dedicated to building performant, scalable, secure and innovative software solutions</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ChineseChikki](https://github.com/ChineseChikki), https://github.com/chinelsy(.Net)
+- 👨‍💻 All of my projects are available at [https://github.com/ChineseChikki](https://github.com/ChineseChikki), https://github.com/chinelsy
 
 - 💬 Ask me about **Reactjs, Nodejs, Expressjs, Mongodb, C#, ASP.NET
 
