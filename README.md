@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chinese Chikki</h1>
 <h3 align="center">A dynamic and result-oriented software engineer, dedicated to building performant, scalable, secure and innovative software solutions</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinesechikki" alt="chinesechikki" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/ChineseChikki](https://github.com/ChineseChikki)
 
 - 💬 Ask me about **Reactjs, Nodejs, Expressjs, Mongodb, C#, ASP.NET**
