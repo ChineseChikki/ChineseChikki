@@ -9,11 +9,11 @@
 
 - 👨‍💻 You can see more of my works here [https://github.com/chinelsy](https://github.com/chinelsy)
 
-- 💬 Ask me about **Nestjs, Typescript, PostgreSQL, Reactjs, Nodejs, Expressjs, Mongodb**
+- 💬 Ask me about  **Nestjs, Typescript, PostgreSQL, Reactjs, Nodejs, Expressjs, Mongodb**
 
 - 📫 How to reach me **chinelsy@gmail.com**
 
-- ⚡ Fun fact: **I love team work**
+- ⚡ Fun fact : **I love team work**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,4 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chinesechikki&show_icons=true&locale=en&layout=compact" alt="chinesechikki" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chinesechikki&show_icons=true&locale=en" alt="chinesechikki" /></p>
-
