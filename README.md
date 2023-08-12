@@ -9,11 +9,11 @@
 
 - 👨‍💻 You can see more of my works here [https://github.com/chinelsy](https://github.com/chinelsy)
 
-- 💬 Ask me about **Nestjs,Typescript,PostgreSQL,Reactjs,Nodejs,Expressjs,Mongodb**
+- 💬 Ask me about **Nestjs, Typescript, PostgreSQL, Reactjs, Nodejs, Expressjs, Mongodb**
 
 - 📫 How to reach me **chinelsy@gmail.com**
 
-- ⚡ Fun fact **I love team work**
+- ⚡ Fun fact: **I love team work**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
