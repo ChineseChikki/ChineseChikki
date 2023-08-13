@@ -13,7 +13,9 @@
 
 - 📫 How to reach me **chinelsy@gmail.com**
 
-- ⚡ Fun fact : **I love team work**
+- ⚡ Fun fact : **I love teamwork**
+  
+-  🧠 I’m currently learning : **C#, Algorithms and data structures**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
