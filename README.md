@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chinese Chikki</h1>
-<h3 align="center">A dynamic and result-oriented software engineer, dedicated to building performant, scalable, secure and innovative software solutions</h3>
+<h1 align="center">Hola! 👋, I'm Chinese Chikki</h1>
+<h3 align="center">I build world-class software solutions</h3>
 
 - 🔭 I’m currently working on [9Mobile Project](Private)
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 You can see more of my works here [https://github.com/chinelsy](https://github.com/chinelsy)
 
-- 💬 Ask me about  **Nestjs, Typescript, PostgreSQL, Reactjs, Nodejs, Expressjs, Mongodb**
+- 💬 Ask me about **Nestjs, Typescript, PostgreSQL, Reactjs, Nextjs, Nodejs, Expressjs, Mongodb**
 
 - 📫 How to reach me **chinelsy@gmail.com**
 
