@@ -7,11 +7,11 @@
 
 - 🧠 I’m currently learning : **Algorithms and data structures**
 
-- 👯 I’m worked on [luxfrica_web](Private)
+- 👯 I worked on [luxfrica_web](Private)
 
 - 🤝 I worked on [tehlex/backend](Private)
 
-- 👨‍💻 You can see more of my works here: [https://github.com/chinelsy](https://github.com/chinelsy)
+- 👨‍💻 You can see more of my work here: [https://github.com/chinelsy](https://github.com/chinelsy)
 
 - 💬 Ask me about **Nestjs,Typescript,PostgreSQL,TypeORM,Reactjs,Nodejs,Expressjs,Mongodb**
 
