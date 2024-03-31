@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chinese Chikki</h1>
 <h3 align="center">A dynamic and result-oriented software engineer dedicated to building performant, scalable, secure and innovative software solutions</h3>
 
-- 🔭 I’m currently working on [9Mobile Project](Private)
+- 🔭 I’m currently working on [ibx Exchange](Private)
+  
+- 🔭 I worked on [9Mobile Project](Private)
 
-- 🔭 I’m currently working on [TraderApp Project](Private)
+- 🔭 I worked on [TraderApp Project](Private)
 
 - 🧠 I’m currently learning : **Algorithms and data structures**
 
