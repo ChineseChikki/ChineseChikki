@@ -15,7 +15,7 @@
 
 - 👨‍💻 You can see more of my work here: [https://github.com/chinelsy](https://github.com/chinelsy)
 
-- 💬 Ask me about **Nestjs,Typescript,PostgreSQL,TypeORM,Reactjs,Nodejs,Expressjs,Mongodb,Python,AI**
+- 💬 Ask me about **Nestjs,Typescript,PostgreSQL,TypeORM,Nodejs,Expressjs,Mongodb**
 
 - 📫 How to reach me **chinelsy@gmail.com**
 
