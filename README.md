@@ -7,7 +7,7 @@
 
 - 🔭 I worked on [TraderApp Project](Private)
 
-- 🧠 I’m currently learning : ** R programming, Algorithms and data structures**
+- 🧠 I’m currently learning : **Algorithms and data structures**
 
 - 👯 I worked on [luxfrica_web](Private)
 
